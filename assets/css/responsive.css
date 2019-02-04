@@ -1,0 +1,101 @@
+
+@media (max-width: 768px){
+	/*--------------------------------------------------------------
+	# Navbar
+	--------------------------------------------------------------*/
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+	    color: #fbfbf2;
+	}
+	.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover, .navbar-default .navbar-nav .open .dropdown-menu > li > a:focus {
+	    color: #cfd2cd;
+	    background-color: transparent;
+	}
+	/*--------------------------------------------------------------
+	# Carousel
+	--------------------------------------------------------------*/
+    .carousel__content{
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .carousel-caption{
+        bottom: 10%;
+    }
+    .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right, .carousel-control .icon-next, .carousel-control .icon-prev {
+	    width: 30px;
+	    height: 30px;
+	    margin-top: -10px;
+	    padding-top: 9px;
+	    font-size: 10px;
+	    background: #847577;
+	}
+	.carousel-caption .btn {
+	    margin-top: 10px;
+	}
+	/*--------------------------------------------------------------
+	# Contact
+	--------------------------------------------------------------*/
+	.contact__icon--footer {
+	    width: 30px;
+	    height: 30px;
+	    line-height: 30px;
+	}
+	.contact__details_title--footer {
+	    padding-left: 20px;
+	}
+	.contact__details--footer {
+	    padding-left: 30px;
+	}
+	.contact__icon {
+	    width: 40px;
+	    height: 30px;
+	    font-size: 15px;
+	}
+	.contact__details_title {
+		padding-left: 42px;
+	}
+	.contact__details {
+	    margin: 0px;
+	    padding: 5px 0px;
+	    padding-left: 42px;
+	    font-size: 14px;
+	}
+	/*--------------------------------------------------------------
+	# Articles
+	--------------------------------------------------------------*/
+	.articles__grid-item {
+	    margin-top: 60px;
+	}
+	/*--------------------------------------------------------------
+	# Banner
+	--------------------------------------------------------------*/
+	#banner {
+	    margin-top: -50px;
+	}
+	
+}
+
+@media (max-width: 339px) {
+	/*--------------------------------------------------------------
+	# Banner
+	--------------------------------------------------------------*/
+	#banner {
+	    margin-top: -75px;
+	    font-size: 22px;
+	}
+	.banner__heading{
+		font-size: 20px;
+	}
+	/*--------------------------------------------------------------
+	# Contact
+	--------------------------------------------------------------*/
+	#contact{
+		margin-top: -100px;
+	}
+}
+
+
+@media screen and (min-width: 767px) {
+	ul.nav li.dropdown:hover > ul.dropdown-menu {
+	    display: block;    
+	}
+}	
