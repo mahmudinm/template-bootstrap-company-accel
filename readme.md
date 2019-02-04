@@ -1,4 +1,6 @@
-- Credits
+# Screenshot
+
+# Credits
 
 # Photo
 	Pexels
@@ -12,13 +14,13 @@
 
 # Javascript Plugins & CSS Library
 
-	[Bootstrap](http://getbootstrap.com)
-	[Jquery](http://jquery.com)
-	[Jquery CounterUp](http://gambit.ph)
-	[Jquery Easing](http://gsgd.co.uk/sandbox/jquery/easing/)
-	[Jquery magnific-popup](http://dimsemenov.com/plugins/magnific-popup/)
-	[Jquery Quicksand](http://razorjack.net/quicksand)
-	[Jquery Waypoint](https://github.com/imakewebthings/waypoints)
-	[Jquery Slick](http://kenwheeler.github.io)
-	[Jquery Typed.JS](https://github.com/mattboldt/typed.js)
-	[Spinkit](http://tobiasahlin.com/spinkit/)
+	[http://getbootstrap.com](http://getbootstrap.com)
+	[http://jquery.com](http://jquery.com)
+	[http://gambit.ph](http://gambit.ph)
+	[http://gsgd.co.uk/sandbox/jquery/easing/](http://gsgd.co.uk/sandbox/jquery/easing/)
+	[http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
+	[http://dimsemenov.com/plugins/magnific-popup/](http://dimsemenov.com/plugins/magnific-popup/)
+	[https://github.com/imakewebthings/waypoints](https://github.com/imakewebthings/waypoints)
+	[http://kenwheeler.github.io](http://kenwheeler.github.io)
+	[https://github.com/mattboldt/typed.js](https://github.com/mattboldt/typed.js)
+	[http://tobiasahlin.com/spinkit/](http://tobiasahlin.com/spinkit/)
